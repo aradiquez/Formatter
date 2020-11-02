@@ -22,7 +22,14 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Simply go and run the following:
+
+```
+$ bin/console
+$ Formatter.cast('0.65443','%')
+$ Formatter.cast('0.65443','$')
+
+```
 
 ## Development
 
